@@ -15,6 +15,3 @@ Pizza topping is a console application you can run it in two ways:
 1.	In visual studio, after loading the project press F5
 2.	Build the project, then go to PizzaTopping\bin\Debug\PizzaTopping.exe and run it
 Project has only unit tests for Calc Engine
-
-==============================
-If you have any question you can email me - wellner.nyc@gmail.com
